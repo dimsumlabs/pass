@@ -1,7 +1,7 @@
 DimSumLabs Password Store
 =========================
 
-Get [pass](http://www.passwordstore.org/). You will want to get a fairly recent version, so you can make use of sub directoris.
+Get [pass](http://www.passwordstore.org/). You will want to get a fairly recent version, so you can make use of sub directories.
 
 Getting Started
 ---------------
